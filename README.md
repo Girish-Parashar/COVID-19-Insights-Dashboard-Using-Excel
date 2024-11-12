@@ -1,6 +1,9 @@
 # 🦠═╡ COVID-19 Insights Dashboard Using Excel ╞═📊
-
 *Turning Data into Actionable Insights with Excel’s Dashboard Capabilities*
+
+<p align="center">
+  <img src="https://github.com/Girish-Parashar/COVID-19-Insights-Dashboard-Using-Excel/blob/main/Leonardo_Phoenix_A_detailed_and_powerful_visual_representation_2.jpg" width="500"/>
+</p>
 
 ---
 
